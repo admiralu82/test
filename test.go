@@ -1,5 +1,5 @@
 package util
 
 func Hello1() {
-	println("Hello2")
+	println("Hello3")
 }
