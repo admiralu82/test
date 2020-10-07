@@ -1,4 +1,4 @@
-module github.com/admiralu82/test123
+module github.com/admiralu82/test
  
- 
+
 go 1.14
